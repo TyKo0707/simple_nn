@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# build
+out/
+target/
